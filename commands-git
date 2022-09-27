@@ -1,0 +1,4 @@
+git add . 
+git commit "commentaire souhaiter"
+git push -u origin main(ou master pour moi)
+git pull
