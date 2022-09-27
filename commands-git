@@ -1,6 +1,1 @@
-git add . 
-git commit "commentaire souhaiter"
-git push -u origin main(ou master pour moi)
-git pull
-git branch nom_de_la_branche
-git checkout nom_de_la_branche
+autre chose 
